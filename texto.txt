@@ -1,2 +1,3 @@
 teste de conteudo
 segunda linha de conteudo ...
+linha criado na branch b_bug
