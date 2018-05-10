@@ -4,3 +4,4 @@ linha criado na branch b_bug
 codigo na linha numero 4
 criando a linha 4 na versao bug
 criando a linha 6 para enviar ao github
+criado linha 7 localmente
